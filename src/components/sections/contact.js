@@ -51,7 +51,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for new opportunities as a Full Time Software Engineer after
+        I'm currently looking for new opportunities as a full-time software engineer after
         completion of master's degree in June, 2021.
       </p>
 

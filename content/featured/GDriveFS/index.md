@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'GDriveFS'
+cover: './grivefs.png'
+github: 'https://github.com/abhishek0508/gdrivefs'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - Google Drive REST API's
+  - FusePy
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Mounted Google Drive on Linux System using FUSE module and Google Drive's REST API.
+Filesystem in Userspace (FUSE) is a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
