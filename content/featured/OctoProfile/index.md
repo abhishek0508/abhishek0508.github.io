@@ -1,14 +1,13 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2020-06-12'
+title: 'Bare Necessities'
+cover: './barenecessities.jpg'
+github: 'https://github.com/abhishek0508/bare-necessities'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Android
+  - Java
+  - S2 Library
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Localising Essential in the current covid19 pandemic situation, solving problem like where we can find "daal,chawal,rice" since many of the shops are going out of stock.
