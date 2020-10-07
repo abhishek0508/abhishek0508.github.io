@@ -52,8 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build software products that scale.</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Hyderabad, India specializing in building and scaling sofware
-      products, with a keen interest in Data Science.
+      I'm a software engineer based in Hyderabad, India specializing in building and scaling
+      software products, with a keen interest in Data Science.
     </p>
   );
   const five = (

@@ -16,6 +16,7 @@ import {
   IconStar,
   IconTwitter,
   IconZap,
+  IconLeetcode,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -30,6 +31,8 @@ const Icon = ({ name }) => {
       return <IconFolder />;
     case 'Fork':
       return <IconFork />;
+    case 'Leetcode':
+      return <IconLeetcode />;
     case 'GitHub':
       return <IconGitHub />;
     case 'Instagram':
