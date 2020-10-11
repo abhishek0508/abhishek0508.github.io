@@ -6,7 +6,8 @@ github: 'https://github.com/abhishek0508/bare-necessities'
 tech:
   - Android
   - Java
-  - S2 Library
+  - S2-Library
+  - FireBase
 showInProjects: true
 ---
 
