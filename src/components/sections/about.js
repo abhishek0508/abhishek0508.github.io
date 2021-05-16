@@ -132,7 +132,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'Python', 'C++', 'Javascript', 'Ruby on Rails', ''];
+  const skills = [
+    'Java',
+    'Python',
+    'C++',
+    'Javascript',
+    'Ruby on Rails',
+    'Docker(Containerization)',
+    'Kafka(Messaging Queues)',
+    'Tensorflow(Deep Learning)',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

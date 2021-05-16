@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Abhishek Gorisaria',
     description:
-      'Abhishek Gorisaria is a software engineer specializing in building and scaling software products, with a keen interest in Data Science.',
+      'Abhishek Gorisaria is a software engineer specializing in building and scaling software products, with a keen interest in Machine Learning.',
     siteUrl: 'https://abhishek0508.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@abhishekcool05',
