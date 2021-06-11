@@ -2,7 +2,7 @@
 date: '2017-11-17'
 title: 'Programmer Analyst'
 company: 'Cognizant'
-location: 'Kolkata, India'
+location: 'Chennai, India'
 range: 'Nov - December 2018'
 url: 'https://www.cognizant.com/'
 ---
